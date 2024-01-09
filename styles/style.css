@@ -13,12 +13,20 @@
 .banner-text {
     padding-top: 50px;
     color: white;
-    font-size: 33px;
+    font-size: 32px;
+    font-style: normal;
     text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    line-height: normal;
 }
 .banner-title {
     padding-top: 0;
     color: white;
-    font-size: 65px;
+    font-size: 72px;
     text-align: center;
+    font-family: 'Merriweather', serif;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
 }
