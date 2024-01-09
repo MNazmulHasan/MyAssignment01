@@ -6,4 +6,19 @@
 }
 .banner {
     background-image: url(images/BannerImage.png);
+    height: 600px;
+    width: 1320px;
+    background-repeat: no-repeat;
+}
+.banner-text {
+    padding-top: 50px;
+    color: white;
+    font-size: 33px;
+    text-align: center;
+}
+.banner-title {
+    padding-top: 0;
+    color: white;
+    font-size: 65px;
+    text-align: center;
 }
