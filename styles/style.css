@@ -30,3 +30,24 @@
     font-weight: 900;
     line-height: 95px;
 }
+.holiday-deal {
+    font-family: Inter;
+    text-align: center;
+    font-style: normal;
+    line-height: normal;
+}
+.discount {
+    color: red;
+    font-size: 88px;
+    font-weight: 700;
+}
+.deal-text {
+    color: red;
+    font-size: 24px;
+    font-weight: 500;
+}
+.categories {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+}
