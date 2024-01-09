@@ -1,0 +1,9 @@
+.content {
+    margin: 0px;
+    max-width: 1320px;
+    max-height: 600px;
+    padding-top: 50px;
+}
+.banner {
+    background-image: url(images/BannerImage.png);
+}
